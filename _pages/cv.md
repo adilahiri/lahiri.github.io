@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.  Electrical Engineering, Purdue University, 2016
+* M.S.  Electrical Engineering, Texas A&M University, 2018
+* Ph.D. Electrical Engineering, Texas A&M University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Graduate Research Assistant, Department of Electrical and Computer Engineering Texas A&M University, College Station.
+  * Research Project: Precision Drug Discovery for Breast Cancer and Chemotherapy Induced Peripheral Neuropathy
+  
+* Spring 2021: Graduate Teaching Assitant, Department of Electrical and Computer Engineering Texas A&M University, College Station.
+  * Led 3 lab sections for ECEN 215.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2020: Research Intern, University of Texas Health Science Center, Houston.
+  * Perform large scale data analysis on electronic health care data for COVID-19 patients.      
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring 2017- Summer 2020: Graduate Research Assistant, Department of Electrical and Computer Engineering Texas A&M University, College Station.
+  * Research Projects:
+    *  Bayesian modeling of plant drought resistance pathway
+    *  Bayesian Network Analysis of Lysine Biosynthesis Pathway in Rice
+    *  Detecting Drought Regulators using Stochastic Inference in Bayesian Networks.
+
+* Spring 2014 - Spring 2016: Undergraduate Teaching Assistant, Department of Astronomy and Physics, Purdue University, West Lafayette.
+
+*  Spring 2014 & Spring 2016: Undergraduate Teaching Assistant, Department of Engineering Education, Purdue University, West Lafayette.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Lead Technical Trainer, [Texas A&M Data Analytics Club](https://tamuanalytics.com/) since Fall 2019
+* Officer, [Electrical and Computer Engineering Graduate Student Association](https://stuactonline.tamu.edu/app/organization/profile/public/id/1918), since Spring 2020
+* Volunteer at [Aggielandhumane Society](https://aggielandhumane.org/)
