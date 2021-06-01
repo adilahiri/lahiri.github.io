@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Papers"
-permalink: /papers/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 Here is a list of my papaers
