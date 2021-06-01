@@ -84,10 +84,10 @@ author:
   avatar           : "Aditya.jpg"
   bio              : "Ph.D. Candidate at Texas A&M University"
   location         : "College Station, TX"
-  employer         :
+  employer         : "Texas A&M University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=300&user=U4WpfCkAAAAJ"
-  email            :
+  email            : "adi441994@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
