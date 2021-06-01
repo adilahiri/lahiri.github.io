@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S.  Electrical Engineering, Purdue University, 2016
-* M.S.  Electrical Engineering, Texas A&M University, 2018
-* Ph.D. Electrical Engineering, Texas A&M University, 2022 (expected)
+* B.S.  Electrical Engineering, Purdue University, West Lafayette, IN, USA, May 2016
+* M.S.  Electrical Engineering, Texas A&M University, College Station, TX, USA, August 2018
+* Ph.D. Electrical Engineering, Texas A&M University, College Station. TX, USA, May 2022 (expected)
 
 Work experience
 ======
