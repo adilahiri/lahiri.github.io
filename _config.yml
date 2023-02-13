@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Aditya Lahiri"
-description              : &description "Ph.D. Candidate @ Texas A&M University"
+description              : &description "Bioninformatics Postdoctoral Fellow @ The Children's Hospital of Philadelphia"
 url                      : https://adityalahiri.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adilahiri/lahiri.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aditya Lahiri"
   avatar           : "aditya_purdue.jpeg"
-  bio              : "Ph.D. Candidate at Texas A&M University"
-  location         : "College Station, TX"
+  bio              : "Bioninformatics Postdoctoral Fellow @ The Children's Hospital of Philadelphia"
+  location         : "Philadelphia, PA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=300&user=U4WpfCkAAAAJ"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  webofscience     : "https://www.webofscience.com/wos/author/record/AAZ-1251-2021"
 
 
 # Reading Files
